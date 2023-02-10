@@ -9,7 +9,7 @@ public class PrimeiroPrograma {
 	public static void main(String[] args) {
 		//System.out.println("Teste");
 		Gato gato = new Gato();
-		//Livro livros = new Livro();
+		//Livro livro = new Livro();
 		System.out.println(gato);
 		
 	}
